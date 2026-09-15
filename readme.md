@@ -2,4 +2,4 @@
 
 Project untuk mempelajari dasar penggunaan Git.
 
-Halo Nama Saya Margareta dan ini adalah perubahan 
+Saya Margareta dan ini adalah perubahan 
