@@ -2,4 +2,4 @@
 
 Project untuk mempelajari dasar penggunaan Git.
 
-ini pembaruan cara cepat dari dev-margareta
+Halo Nama Saya Margareta dan ini adalah perubahan 
